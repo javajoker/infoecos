@@ -1,0 +1,9 @@
+1. NL parse of dictionary, say Oxford En-en dictionary
+1.1. Symbolize dictionary word
+1.2. Build up meaningful word model upon NL dictionary model
+2. Build up so-called 'Info' model, with NL + meaningful check
+3. Multiple language mapping
+4. NL parse for natural language
+5. Translation
+6. Read out
+7. Voice support
